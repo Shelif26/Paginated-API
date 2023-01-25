@@ -1,0 +1,1 @@
+GET http://localhost:6060/posts?page=1&limit=3
